@@ -1,0 +1,30 @@
+1 REPORT : GM CAR BOOKING                         DATE: 23/01/2020     PAGE:  1
+
+ ------------------------------------------------------
+  TOTAL MANUFACTURED:     9 CARS
+
+  CAR REGISTRATION NO.    CAR DETAILS            PRICE
+  --------------------    -----------------      --------
+  061LK910                GMC YUKON BLACK        $12,000
+  091CK902                GMC CANYON RED         $29,870
+  092O7904                GMC TERRAIN RED        $50,000
+  144J9044                 BUICK ENCLAVE SILVER   $83,400
+  154QK904                BUICK ENCORE SILVER    $56,000
+  161NL203                GMC TERRAIN BLACK      $15,000
+  161Y9012                GMCL YUKON BLUE        $65,800
+  181I106                 BUICK REGAL GREY       $35,000
+  2071C304                BUICK REGAL BLUE       $20,000
+
+
+ -----------------------------------------------------------------------------
+  CAR BOOKING HISTORY:       5 CARS
+
+  CUSTOMER ID  CUSTOMER NAME  PHONE NO.   CAR NO.   CAR DETAILS            PRICE
+  -----------  -------------  ---------   --------  --------------------   -----
+  BK0005       PARIS HILTON   8978542102  2071C304  BUICK REGAL BLUE       $20,000
+  BK0002       JOJO MOJO      8234567890  091CK902  GMC CANYON RED         $29,870
+  BK0003       WILLL SMITH    8547965214  144J9044  BUICK ENCLAVE SILVER   $83,400
+  BK0006       BRAT PITT      (897854121  092O7904  GMC TERRAIN RED        $50,000
+  BK0005       PARIS HILTON   8978542102  161NL203  GMC TERRAIN BLACK      $15,000
+
+
